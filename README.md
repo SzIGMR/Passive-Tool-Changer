@@ -1,34 +1,44 @@
 # Passive Tool Changer
 
-Ein passiver Werkzeugwechsler für 3D-Drucker, der komplett aus Standardteilen und 3D-gedruckten Komponenten besteht. Dieses Projekt stellt alle benötigten Dateien und Anleitungen bereit, damit du den Tool Changer selbst herstellen und montieren kannst.
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)](https://opensource.org/license/apache-2-0/) ![Issues](https://img.shields.io/github/issues/SzIGMR/Passive-Tool-Changer) ![Release](https://img.shields.io/github/v/release/SzIGMR/Passive-Tool-Changer)
+
+A passive tool changer for 3D printers built from standard components and 3D-printed parts. This project provides all files and instructions so you can fabricate and assemble the tool changer yourself.
 
 ## Features
-- Werkzeugwechsel ohne aktive Elektronik
-- 3D-druckbare Teile
-- Modularer Aufbau
-- Offen lizenzierte Konstruktion
+- Tool changes without active electronics
+- 3D-printable parts
+- Modular design
+- Openly licensed construction
 
-## Benötigte Teile
-*TODO: Liste der Schrauben, Lager und anderer Standardteile ergänzen.*
+## Required Parts
+*TODO: List of screws, bearings, and other standard components.*
 
-## 3D-Druck
-*TODO: Informationen zu empfohlenen Materialien, Einstellungen und benötigten Teilen.*
+## 3D Printing
+*TODO: Recommended materials, print settings, and required printed pieces.*
 
-## Montage
-*TODO: Schritt-für-Schritt-Anleitung mit Bildern.*
+## Assembly
+*TODO: Step-by-step assembly guide with images.*
 
-## Verwendung
-*TODO: Beschreibung, wie der Tool Changer am Drucker montiert und benutzt wird.*
+## Usage
+*TODO: Instructions for mounting and operating the tool changer.*
 
 ## Roadmap
-*TODO: Geplante Erweiterungen und Verbesserungen.*
+*TODO: Planned improvements and extensions.*
 
-## Mitwirken
-Pull Requests sind willkommen. Bitte Issues nutzen, um Fehler zu melden oder Features vorzuschlagen.
+## Folder Overview
+- [Documentation](docs/README.md)
+- [Electronics](electronics/README.md)
+- [Firmware](firmware/README.md)
+- [Hardware](hardware/README.md)
+- [Software](software/README.md)
+- [Tests](tests/README.md)
 
-## Lizenz
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
+## Contributing
+Pull requests are welcome. Please use issues to report bugs or request new features.
 
-## Dank
-*TODO: Danksagungen oder Verweise auf Inspirationen.*
+## License
+This project is licensed under the [Apache 2.0 License](LICENSE).
+
+## Acknowledgments
+*TODO: Credits or references to inspirations.*
 
